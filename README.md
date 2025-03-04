@@ -16,8 +16,7 @@ Een PHP-script om voertuiginformatie op te halen van de RDW Open Data API. Het s
 1. Zorg ervoor dat PHP is geïnstalleerd op je server.
 2. Clone deze repository naar je server:
    ```bash
-   git clone https://github.com/yourusername/rdw-voertuig-info.git
-   cd rdw-voertuig-info
+   git clone https://github.com/danielruiterr/RDWvoertuigAPI.git
    ```
 3. Maak een `cache` map aan voor het opslaan van tijdelijke data:
    ```bash
